@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Se339 Copy.iml" filepath="$PROJECT_DIR$/.idea/Se339 Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopizer/sm-shop/src/main/main.iml" filepath="$PROJECT_DIR$/shopizer/sm-shop/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopizer/sm-core/src/main/main1.iml" filepath="$PROJECT_DIR$/shopizer/sm-core/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopizer/sm-core-model/sm-core-model.iml" filepath="$PROJECT_DIR$/shopizer/sm-core-model/sm-core-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopizer/sm-core-modules/sm-core-modules.iml" filepath="$PROJECT_DIR$/shopizer/sm-core-modules/sm-core-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopizer/sm-shop-model/sm-shop-model.iml" filepath="$PROJECT_DIR$/shopizer/sm-shop-model/sm-shop-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopizer/sm-shop/src/test/test.iml" filepath="$PROJECT_DIR$/shopizer/sm-shop/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopizer/sm-core/src/test/test1.iml" filepath="$PROJECT_DIR$/shopizer/sm-core/src/test/test1.iml" />
+    </modules>
+  </component>
+</project>
