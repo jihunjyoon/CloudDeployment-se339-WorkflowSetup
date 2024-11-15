@@ -4,34 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ea545ba-f414-4246-bb50-e5a698c0c107" name="Changes" comment="" />
+    <list default="true" id="f1ee9608-e5c0-401b-9eda-3b25cfd68c55" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/shopizer-shop-reactjs/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/shopizer-shop-reactjs/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopizer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/shopizer/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopizer/sm-core/src/main/resources/rules/manufacturer-shipping-ordertotal-rules.xls" beforeDir="false" afterPath="$PROJECT_DIR$/shopizer/sm-core/src/main/resources/rules/manufacturer-shipping-ordertotal-rules.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopizer/sm-shop/files/store/DownlaodRepository.dat" beforeDir="false" afterPath="$PROJECT_DIR$/shopizer/sm-shop/files/store/DownlaodRepository.dat" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/shopizer" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2nV7cBtwfsrbvaFlCeSLUk5snYA" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2ltrsHakgPOnkeTgazPdPU0Fxyl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Cjbeb/OneDrive/Desktop/Se339 Copy"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Cjbeb/OneDrive/Desktop/Se339 Copy&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.116686106&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.3238255&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8ea545ba-f414-4246-bb50-e5a698c0c107" name="Changes" comment="" />
-      <created>1729046467049</created>
+      <changelist id="f1ee9608-e5c0-401b-9eda-3b25cfd68c55" name="Changes" comment="" />
+      <created>1726010419642</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1729046467049</updated>
+      <updated>1726010419642</updated>
     </task>
     <servers />
   </component>
